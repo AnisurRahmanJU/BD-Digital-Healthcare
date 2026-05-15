@@ -1,2 +1,2 @@
-# BD Digital Healthcare
-Symptom Checker in Bangla in BD Digital Healthcare
+# Symptom Checker
+Symptom Checker in Bangla in Anika Medical And Healthcare
